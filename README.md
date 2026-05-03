@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sourav</h1>
+<h1 align="center">Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Axel Kai. You can call me Axel.</h1>
 <!-- <h4 align="center">UIET</h4> -->
 </div>
 
@@ -17,7 +17,7 @@
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/Ax3lKa1">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;uietian;India&center=true&width=380&height=45">
 	</a>
 </p>
